@@ -1,0 +1,2 @@
+run:
+  web: -p 27017:27017 --name badbank -d mongo
